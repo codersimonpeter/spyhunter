@@ -1,0 +1,8 @@
+{"file":"gameAssets.png","frames":{
+"spy6":{"x":287,"y":1,"w":61,"h":126,"offX":3,"offY":0,"sourceW":66,"sourceH":126},
+"spy5":{"x":1,"y":1,"w":116,"h":160,"offX":10,"offY":0,"sourceW":128,"sourceH":161},
+"spy4":{"x":287,"y":129,"w":71,"h":101,"offX":4,"offY":4,"sourceW":80,"sourceH":105},
+"spy3":{"x":211,"y":99,"w":74,"h":106,"offX":1,"offY":1,"sourceW":80,"sourceH":110},
+"spy2":{"x":1,"y":163,"w":87,"h":90,"offX":1,"offY":1,"sourceW":93,"sourceH":93},
+"spy1":{"x":119,"y":99,"w":90,"h":103,"offX":1,"offY":1,"sourceW":100,"sourceH":107},
+"bgTile":{"x":119,"y":1,"w":110,"h":96,"offX":0,"offY":0,"sourceW":110,"sourceH":96}}}
