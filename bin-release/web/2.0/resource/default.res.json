@@ -1,0 +1,15 @@
+{
+	"groups":[
+		{
+			"name": "spys",
+			"keys": "spys"
+		}
+	],
+	"resources":[
+		{
+			"name": "spys",
+			"type": "sheet",
+			"url": "assets/gameAssets.json"
+		}
+	]
+}

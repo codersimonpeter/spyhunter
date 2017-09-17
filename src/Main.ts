@@ -13,7 +13,7 @@ class Main extends egret.DisplayObjectContainer {
         RES.addEventListener(RES.ResourceEvent.CONFIG_COMPLETE,this.onConfigComplete,this);
         RES.addEventListener(RES.ResourceEvent.CONFIG_LOAD_ERROR,this.onConfigError,this);
         console.log("正在加载配置文件");
-        RES.loadConfig("/resource/default.res.json","resource/");
+        RES.loadConfig("./resource/default.res.json","resource/");
     }
     private onConfigError(e:RES.ResourceEvent){}
     private onConfigComplete(){
